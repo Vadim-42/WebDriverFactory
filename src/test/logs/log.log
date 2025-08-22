@@ -1,0 +1,15 @@
+13:25:17.927 [main] INFO  main.Form_Test - passwordConfirm: true
+13:25:17.949 [main] INFO  main.Form_Test - outputContainsName: true
+13:25:17.966 [main] INFO  main.Form_Test - outputContainsEmail: true
+13:25:17.984 [main] INFO  main.Form_Test - outputContainsBirthday: true
+13:25:18.002 [main] INFO  main.Form_Test - outputContainsLanguage: true
+14:26:35.155 [main] INFO  main.Form_Test - passwordConfirm: true
+14:26:35.183 [main] INFO  main.Form_Test - outputContainsName: true
+14:26:35.208 [main] INFO  main.Form_Test - outputContainsEmail: true
+14:26:35.229 [main] INFO  main.Form_Test - outputContainsBirthday: true
+14:26:35.249 [main] INFO  main.Form_Test - outputContainsLanguage: true
+20:48:14.871 [main] INFO  main.Form_Test - passwordConfirm: true
+20:48:14.893 [main] INFO  main.Form_Test - outputContainsName: true
+20:48:14.911 [main] INFO  main.Form_Test - outputContainsEmail: true
+20:48:14.930 [main] INFO  main.Form_Test - outputContainsBirthday: true
+20:48:14.948 [main] INFO  main.Form_Test - outputContainsLanguage: true
